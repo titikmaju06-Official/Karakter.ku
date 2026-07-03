@@ -1,0 +1,54 @@
+{
+  "superadmin": {
+    "mbti": true,
+    "disc": true,
+    "iq": true,
+    "wpt": true,
+    "bigfive": true,
+    "riasec": true,
+    "papi": true,
+    "cognitive": true,
+    "spatial": true,
+    "riwayat": true,
+    "pengaturan": true
+  },
+  "owner": {
+    "mbti": true,
+    "disc": true,
+    "iq": true,
+    "wpt": true,
+    "bigfive": true,
+    "riasec": true,
+    "papi": true,
+    "cognitive": true,
+    "spatial": true,
+    "riwayat": true,
+    "pengaturan": false
+  },
+  "manager": {
+    "mbti": true,
+    "disc": true,
+    "iq": true,
+    "wpt": true,
+    "bigfive": true,
+    "riasec": true,
+    "papi": true,
+    "cognitive": true,
+    "spatial": true,
+    "riwayat": true,
+    "pengaturan": false
+  },
+  "tamu": {
+    "mbti": true,
+    "disc": true,
+    "iq": true,
+    "wpt": true,
+    "bigfive": true,
+    "riasec": true,
+    "papi": true,
+    "cognitive": true,
+    "spatial": true,
+    "riwayat": false,
+    "pengaturan": false
+  }
+}
